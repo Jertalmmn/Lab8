@@ -3,7 +3,7 @@
 #include <string>
 #include "TomatoesRepository.h"
 #include "IngredientSelector.h"
-#include "../HerbsRepository.h"
+#include "HerbsRepository.h"
 
 #include "CheeseRepository.h"
 class PizzaBuilder {
