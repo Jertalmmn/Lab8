@@ -30,6 +30,7 @@
     <ClCompile Include="Classes\TomatoesRepository.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="HerbRepository.cpp">
     <ClCompile Include="CheeseRepository.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
@@ -47,6 +48,7 @@
     <ClInclude Include="Headers\TomatoesRepository.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="HerbsRepository.h">
     <ClInclude Include="CheeseRepository.h">
       <Filter>Header Files</Filter>
     </ClInclude>
