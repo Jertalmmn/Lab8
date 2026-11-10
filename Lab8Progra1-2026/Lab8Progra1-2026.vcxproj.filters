@@ -8,6 +8,7 @@
     <ClCompile Include="Classes\PizzaBuilder.cpp" />
     <ClCompile Include="Classes\TomatoesRepository.cpp" />
     <ClCompile Include="Classes\HerbRepository.cpp" />
+    <ClCompile Include="Classes\MeatsRepository.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Headers\CheeseRepository.h" />
@@ -16,6 +17,7 @@
     <ClInclude Include="Headers\PizzaBuilder.h" />
     <ClInclude Include="Headers\TomatoesRepository.h" />
     <ClInclude Include="Headers\HerbsRepository.h" />
+    <ClInclude Include="Headers\MeatsRepository.h" />
   </ItemGroup>
   <ItemGroup>
     <None Include="README.md" />
